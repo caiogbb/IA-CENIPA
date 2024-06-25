@@ -1,7 +1,7 @@
-# Teste Técnico Cientista de Dados - A3Data
+# Aplicação de IA para análise de acidentes do CENIPA
 
 
-Este projeto contempla a terceira fase do processo seletivo para cientista de dados na A3Data. O presente projeto analisou os dados referentes ao CENIPA, a apresentação de maneira suscinta encontra-se no arquivo 'A3Data_test.pdf'. No que se refere aos códigos de programação, encontra-se em dois principais documentos (Cod_Desafio.ipynb em linguagem python) e (Codigo_aux.R e desafio_tecnico.Rmd em linguagem R). Para o decorrer deste projeto foram desenvolvidos dois Deploy utilizando linguagem R (APP.R e CAM.R).
+ O presente projeto analisou os dados referentes ao CENIPA, a apresentação de maneira suscinta encontra-se no arquivo 'A3Data_test.pdf'. No que se refere aos códigos de programação, encontra-se em dois principais documentos (Cod_Desafio.ipynb em linguagem python) e (Codigo_aux.R e desafio_tecnico.Rmd em linguagem R). Para o decorrer deste projeto foram desenvolvidos dois Deploy utilizando linguagem R (APP.R e CAM.R).
 
 Este projeto foi dividido em três pontos principais:
 
